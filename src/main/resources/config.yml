@@ -1,0 +1,8 @@
+# A list of words which will trigger a message to be blocked.
+words:
+  - "filtered"
+  - "words"
+  - "swears"
+
+# The message sent when a player's chat message is blocked. (Supports color codes!)
+message: "&cYour message has been blocked."

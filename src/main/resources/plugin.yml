@@ -1,0 +1,6 @@
+name: ChatFilter
+description: Configurable chat filter plugin.
+author: Wommu#5864
+
+main: dev.wommu.chatfilter.ChatFilterPlugin
+version: ${project.version}
